@@ -1,35 +1,88 @@
-# Sanu - The Voice Assistant
+# Sanu AI - Voice Assistant App
 
-Sanu is a voice assistant application built with Capacitor. It allows users to interact with the app using voice commands and can respond with synthesized speech.
+Sanu AI is a smart voice assistant app that can chat with you and respond to your voice commands. Whether you want to have a casual chat or need quick answers, Sanu is here to help!
 
-## Screenshots
+## 📱 Download & Install
+
+Choose and download any of the APK files below:
+
+### Available APK Versions:
+- **Sanu-Final.apk** (4.2 MB) - Recommended stable version
+- **Sanu-Unrestricted.apk** (4.3 MB) - Unrestricted features version
+- **Avni-Latest.apk** (4.2 MB) - Alternative version
+- **Khadija-Perfect.apk** (4.2 MB) - Optimized version
+- **ft-sanu-final.apk** (4.2 MB) - Final testing version
+
+### Installation Instructions:
+1. Download any APK file from above
+2. Enable "Install from unknown sources" in your Android settings
+3. Tap the downloaded APK file to install
+4. Launch the app and enjoy!
+
+## 🖼️ App Screenshots
 
 ![Chat Screenshot](image.png)
 
 ![Voice Screenshot](image2.png)
 
-## Features
+## ✨ Features
 
-*   **Voice Recognition**: Listens to user's voice commands.
-*   **Text-to-Speech**: Responds to the user with a synthesized voice.
-*   **Chat Interface**: A simple chat interface to interact with the AI.
+- **💬 Real-time Chat with AI** - Natural conversation interface
+- **🎤 Voice Recognition & Reply** - Talk to Sanu and get voice responses
+- **🎵 Multiple Voice Profiles** - 10 different voices (5 female + 5 male)
+- **🌐 Hindi & English Support** - Natural Hinglish conversations
+- **⚡ Fast & Responsive** - Quick AI responses
+- **🔒 Privacy Focused** - Your conversations stay private
 
-## Technologies Used
+## 🎭 Voice Personalities
 
-*   [Capacitor](https://capacitorjs.com/)
-*   [Express.js](https://expressjs.com/)
-*   [Speech Recognition Plugin](https://github.com/capacitor-community/speech-recognition)
-*   [Text-to-Speech Plugin](https://github.com/capacitor-community/text-to-speech)
+Choose from 10 different AI voices:
 
-## Setup
+### Female Voices:
+- **Priya** (Sweet) - Higher pitch, friendly tone
+- **Zara** (Confident) - Professional and clear
+- **Maya** (Calm) - Soothing and gentle
+- **Sanu** (Playful) - Energetic and fun
+- **Neha** (Professional) - Clear and articulate
 
-1.  Clone the repository.
-2.  Run `npm install` to install the dependencies.
-3.  Run `npx cap sync` to sync the native project.
-4.  Open the project in Android Studio or Xcode to run on a device or emulator.
+### Male Voices:
+- **Arjun** (Friendly) - Warm and approachable
+- **Dev** (Deep) - Rich and authoritative
+- **Rohan** (Casual) - Relaxed and natural
+- **Veer** (Bold) - Strong and confident
+- **Aditya** (Smooth) - Balanced and pleasant
 
-## How to Use
+## 🛠️ How to Use
 
-1.  Open the app.
-2.  Use the chat interface to type messages to the assistant.
-3.  Use the voice tab to speak to the assistant. Press the record button to start listening and the stop button to stop.
+1. **Chat Mode**: Type messages to have text conversations
+2. **Voice Mode**: Tap the orb to start voice conversations
+3. **Settings**: Customize voice and language preferences
+4. **About**: Learn more about the app and developer
+
+## 📞 Support & Updates
+
+Join our official WhatsApp channel for updates and support:
+[Join WhatsApp Channel](https://whatsapp.com/channel/0029VaAWr3x5PO0y7qLfcR26)
+
+## 👨‍💻 Developer
+
+Created with ❤️ by **Anish**
+
+## 📋 App Information
+
+- **Version**: 1.0.0
+- **Platform**: Android
+- **Size**: ~4.2 MB per APK
+- **Languages**: Hindi, English, Hinglish
+- **Internet Required**: Yes (for AI responses)
+
+## ⚠️ Important Notes
+
+- This app requires internet connection for AI responses
+- Voice recognition works best in quiet environments
+- Grant microphone permissions when prompted
+- Android 5.0+ recommended for best performance
+
+---
+
+© 2024 Sanu AI. All rights reserved.
