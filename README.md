@@ -7,11 +7,7 @@ Sanu AI is a smart voice assistant app that can chat with you and respond to you
 Choose and download any of the APK files below:
 
 ### Available APK Versions:
-- **Sanu-Final.apk** (4.2 MB) - Recommended stable version
 - **Sanu-Unrestricted.apk** (4.3 MB) - Unrestricted features version
-- **Avni-Latest.apk** (4.2 MB) - Alternative version
-- **Khadija-Perfect.apk** (4.2 MB) - Optimized version
-- **ft-sanu-final.apk** (4.2 MB) - Final testing version
 
 ### Installation Instructions:
 1. Download any APK file from above
